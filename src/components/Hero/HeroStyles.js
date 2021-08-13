@@ -17,3 +17,9 @@ export const LeftSection = styled.div`
     margin: 0 auto;
   }
 `;
+
+export const Image = styled.img`
+  @media(min-width:1025px){
+    display:none;
+  }
+`;

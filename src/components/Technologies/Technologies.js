@@ -20,7 +20,9 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            React.js<br/>
+            Angular <br/>
+            Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +34,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node js, express<br/> and Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,13 +43,26 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>CMS</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            CMS like wordpress, magento, wix.....
           </ListParagraph>
         </ListContainer>
       </ListItem>
+      <ListItem>
+        <picture>
+          <DiZend size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Other Skills</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            technologies like flask, django ......
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
     </List>
     <SectionDivider colorAlt />
   </Section>
