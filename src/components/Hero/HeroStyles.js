@@ -19,7 +19,7 @@ export const LeftSection = styled.div`
 `;
 
 export const Image = styled.img`
-  @media(min-width:1025px){
-    display:none;
-  }
+  width: 200px;
+  height: 200px;
+
 `;
